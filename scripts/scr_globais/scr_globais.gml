@@ -6,3 +6,7 @@ global.pontos_p1 = 0
 
 //Pontuação p2
 global.pontos_p2 = 0
+
+//Variavel para definir a disponibilidade da habilidade
+global.habilidade_p1 = 0
+global.habilidade_p2 = 0

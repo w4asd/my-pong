@@ -1,5 +1,5 @@
 //Velocidade da bola
-b_speed = 4;
+b_speed = 2;
 
 //Aumento da velocidade a cada toque
 aumento_speed = 0.2;
@@ -9,3 +9,6 @@ alarm[0] = 60;
 
 //Aleatorizador da seed do objeto
 randomise();
+
+//Ativação da habilidade em 5 segundo
+alarm[1] = 180

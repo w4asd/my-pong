@@ -1,7 +1,7 @@
 {
   "$GMNotes":"v1",
-  "%Name":"nts_passos",
-  "name":"nts_passos",
+  "%Name":"nts_ideias_novas",
+  "name":"nts_ideias_novas",
   "parent":{
     "name":"Notes",
     "path":"folders/Notes.yy",

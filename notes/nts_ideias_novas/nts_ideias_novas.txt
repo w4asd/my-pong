@@ -1,0 +1,5 @@
+Fazer uma Habilidade onde cada raquete poderá usar uma super tacada
+Sempre que o player pressionar determinada tecla, a velocidade da bola irá aumentar
+para dificultar.
+
+Um sistema de dificuldade da IA.

@@ -13,6 +13,8 @@
     {"name":"inst_3A0DBDED","path":"rooms/rm_partida/rm_partida.yy",},
     {"name":"inst_4D4E8129","path":"rooms/rm_partida/rm_partida.yy",},
     {"name":"inst_6309D19F","path":"rooms/rm_partida/rm_partida.yy",},
+    {"name":"inst_473F158F","path":"rooms/rm_partida/rm_partida.yy",},
+    {"name":"inst_2201FF01","path":"rooms/rm_partida/rm_partida.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -24,6 +26,8 @@
         {"$GMRInstance":"v4","%Name":"inst_3A0DBDED","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3A0DBDED","objectId":{"name":"obj_bola","path":"objects/obj_bola/obj_bola.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.8,"scaleY":0.8,"x":320.0,"y":224.0,},
         {"$GMRInstance":"v4","%Name":"inst_4D4E8129","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4D4E8129","objectId":{"name":"obj_pontuacaop1","path":"objects/obj_pontuacaop1/obj_pontuacaop1.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":160.0,"y":32.0,},
         {"$GMRInstance":"v4","%Name":"inst_6309D19F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6309D19F","objectId":{"name":"obj_pontuacaop2","path":"objects/obj_pontuacaop2/obj_pontuacaop2.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":480.0,"y":32.0,},
+        {"$GMRInstance":"v4","%Name":"inst_473F158F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_473F158F","objectId":{"name":"obj_habilidadep1","path":"objects/obj_habilidadep1/obj_habilidadep1.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":128.0,"y":320.0,},
+        {"$GMRInstance":"v4","%Name":"inst_2201FF01","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2201FF01","objectId":{"name":"obj_habilidadep2","path":"objects/obj_habilidadep2/obj_habilidadep2.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":480.0,"y":320.0,},
       ],"layers":[],"name":"ly_instancias","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"ly_sprites","assets":[
         {"$GMRSpriteGraphic":"v1","%Name":"graphic_15EA9387","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_15EA9387","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"spr_rosto","path":"sprites/spr_rosto/spr_rosto.yy",},"x":0.0,"y":-32.0,},

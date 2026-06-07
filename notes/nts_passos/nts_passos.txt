@@ -1,5 +1,0 @@
-Fazer a raquete do p1 se movimentar para cima e para baixo - OK
-
-Fazer a raquete do p2 se movimentar para cima e para baixo - OK
-
-Fazer a bola

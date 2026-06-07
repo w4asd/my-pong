@@ -12,5 +12,3 @@ if(vspeed < -vel_max_ia)
 {
 	vspeed = -vel_max_ia	
 }
-
-show_debug_message(vspeed)
