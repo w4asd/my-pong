@@ -11,3 +11,5 @@ if (global.dois_jogadores and global.habilidade_p2 >= 1 and keyboard_check(ord("
 	obj_bola.speed += 4
 	global.habilidade_p2 --;
 }
+
+audio_play_sound(snd_hit_2,2,0)

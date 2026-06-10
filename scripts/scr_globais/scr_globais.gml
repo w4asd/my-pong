@@ -10,3 +10,6 @@ global.pontos_p2 = 0
 //Variavel para definir a disponibilidade da habilidade
 global.habilidade_p1 = 0
 global.habilidade_p2 = 0
+
+//variavel para verificar se a musica será mutada ou nao
+global.music = true

@@ -1,5 +1,5 @@
 //Velocidade da bola
-b_speed = 2;
+b_speed = 7;
 
 //Aumento da velocidade a cada toque
 aumento_speed = 0.2;
