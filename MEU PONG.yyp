@@ -50,6 +50,7 @@
     {"id":{"name":"obj_pontuacaop2","path":"objects/obj_pontuacaop2/obj_pontuacaop2.yy",},},
     {"id":{"name":"obj_raquetep1","path":"objects/obj_raquetep1/obj_raquetep1.yy",},},
     {"id":{"name":"obj_raquetep2","path":"objects/obj_raquetep2/obj_raquetep2.yy",},},
+    {"id":{"name":"obj_sound_inicio","path":"objects/obj_sound_inicio/obj_sound_inicio.yy",},},
     {"id":{"name":"obj_sound_match","path":"objects/obj_sound_match/obj_sound_match.yy",},},
     {"id":{"name":"rm_inicio","path":"rooms/rm_inicio/rm_inicio.yy",},},
     {"id":{"name":"rm_partida","path":"rooms/rm_partida/rm_partida.yy",},},
